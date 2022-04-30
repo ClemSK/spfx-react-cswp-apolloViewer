@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "react-cswp-apollo-viewer",
+    "libraryId": "bb71bcd0-5e74-4615-8d01-436c7ef719ae",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-cswp-apollo-viewer",
+    "solutionShortDescription": "react-cswp-apollo-viewer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

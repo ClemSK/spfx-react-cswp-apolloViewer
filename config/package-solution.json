@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-cswp-apollo-viewer-client-side-solution",
+    "id": "bb71bcd0-5e74-4615-8d01-436c7ef719ae",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-cswp-apollo-viewer description"
+      },
+      "longDescription": {
+        "default": "react-cswp-apollo-viewer description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-cswp-apollo-viewer Feature",
+        "description": "The feature that activates elements of the react-cswp-apollo-viewer solution.",
+        "id": "4aa3e559-14a0-489c-9590-a16b80f793c9",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-cswp-apollo-viewer.sppkg"
+  }
+}

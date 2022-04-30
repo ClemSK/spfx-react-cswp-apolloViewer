@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render mission 1`] = `
+<div>
+  <table>
+    <tbody>
+      <tr>
+        <td
+          className="ms-textAlignRight"
+        >
+          <strong>
+            ID:
+          </strong>
+        </td>
+        <td>
+          AS-510
+        </td>
+      </tr>
+      <tr>
+        <td
+          className="ms-textAlignRight"
+        >
+          <strong>
+            Name:
+          </strong>
+        </td>
+        <td>
+          Apollo 15
+        </td>
+      </tr>
+      <tr>
+        <td
+          className="ms-textAlignRight"
+        >
+          <strong>
+            Date:
+          </strong>
+        </td>
+        <td>
+          07/26/1971
+           - 
+          08/07/1971
+        </td>
+      </tr>
+      <tr>
+        <td
+          className="ms-textAlignRight"
+        >
+          <strong>
+            Summary:
+          </strong>
+        </td>
+        <td>
+          First Extended LM and rover, landed in Hadley-Apennine. Surface EVA time:18:33 hr. Samples returned: 169.10 pounds (76.70 kg).
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <button>
+    <a
+      className="links"
+      href="https://en.wikipedia.org/wiki/Apollo_15"
+    >
+      Learn More
+    </a>
+  </button>
+  <button>
+    <a
+      className="links"
+      href="#"
+      onClick={[Function]}
+    >
+      Remove Mission
+    </a>
+  </button>
+</div>
+`;

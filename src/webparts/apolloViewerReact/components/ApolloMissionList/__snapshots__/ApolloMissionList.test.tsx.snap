@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders set A of missions 1`] = `
+<div>
+  <CustomizedToggle
+    checked={false}
+    label="Show all or filtered missions?"
+    offText="showing selected missions"
+    onChanged={[Function]}
+    onText="showing all missions"
+  />
+  <TagPicker
+    onChange={[Function]}
+    onRenderItem={[Function]}
+    onRenderSuggestionsItem={[Function]}
+    onResolveSuggestions={[Function]}
+    pickerSuggestionsProps={
+      Object {
+        "noResultsFoundText": "No matching Apollo mission found",
+        "suggestionsHeaderText": "Suggested Apollo missions...",
+      }
+    }
+  />
+  <List
+    items={Array []}
+    onRenderCell={[Function]}
+    renderedWindowsAhead={2}
+    renderedWindowsBehind={2}
+    startIndex={0}
+  />
+</div>
+`;
